@@ -1,0 +1,3 @@
+name: md-file
+description: some testing with md publishing
+markdown: kramdown
